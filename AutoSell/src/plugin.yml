@@ -1,0 +1,9 @@
+name: AutoSell
+version: 1.0
+main: me.ayush_03.autosell.AutoSell
+description: Custom Sells plugin for Jim!
+
+commands:
+      sell:
+        usage: /sell
+        description: Main command.

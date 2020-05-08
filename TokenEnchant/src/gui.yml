@@ -1,0 +1,47 @@
+# Modify the lore of enchantment icons in the Enchanter gui here.
+# "%max%" placeholder of max enchantment level and "%price%" is for the price per level of enchantment.
+
+explosive:
+- '&eBreaks the blocks around like an explosion'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+dragonsbreath:
+- '&eA chance to clear the entire layer of the mine'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+dragonsbreathp:
+- '&eClears an extra layer, in addition to the Dragonsbreath'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+overcharge:
+- '&eBreaks the blocks around like an explosion'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+fortune:
+- '&eIncreases the drops per block'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+efficiency:
+- '&eBreaks blocks faster'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+unbreakable:
+- '&eMakes the pickaxe unbreakable'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+nuke:
+- '&eTiny chance to clear the entire mine'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 
+
+merchant:
+- '&eGives tokens for breaking blocks'
+- '&6Max level: &b%max%'
+- '&6Price: &b%price%' 

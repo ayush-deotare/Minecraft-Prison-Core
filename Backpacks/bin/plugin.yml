@@ -1,0 +1,10 @@
+name: Backpacks
+version: 1.0
+author: Ayush_03
+main: me.ayush_03.backpacks.Main
+description: A custom backpack plugin for Jim.
+
+commands:
+       bp:
+        usage: /bp
+        description: Gives the backpack!

@@ -1,0 +1,13 @@
+name: TokensAPI
+version: 1.0
+main: me.ayush_03.tokenapi.Main
+description: Tokens API.
+
+commands:
+    tadmin:
+       usage: /tadmin
+       description: Main command.
+       
+    tbal:
+       usage: /tbal
+       description: Shows the token balance!
